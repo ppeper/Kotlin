@@ -1,4 +1,4 @@
-package chap05.section1
+package chap05.section2
 
 class Bird2{
     var name: String
