@@ -1,4 +1,4 @@
-package chap05.section3.openclass
+package chap05.section3
 
 // 상속 가능한 클래스를 선언하기 위해 open 사용
 open class Bird(var name: String, var wing: Int, var beak: String, var color: String){
