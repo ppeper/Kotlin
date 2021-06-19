@@ -1,4 +1,4 @@
-package chap06.section3;
+package chap06.section3.kCustomer1;
 
 public class KCustomerAccess {
     public static void main(String[] args) {

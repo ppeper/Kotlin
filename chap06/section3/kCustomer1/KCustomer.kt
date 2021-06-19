@@ -1,4 +1,4 @@
-package chap06.section3
+package chap06.section3.kCustomer1
 
 class KCustomer {
     companion object {
